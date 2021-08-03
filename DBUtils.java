@@ -1,1 +1,3 @@
+hi i am in master branch 
+
 Hi Guys, Git commands are very impartent ...
